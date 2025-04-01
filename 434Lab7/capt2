@@ -1,0 +1,12 @@
+Date: Tue, 31 Mar 2015 14:37:46 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+
+47
+{"ip":"178.200.100.200","about":"/about","Pro!":"http://getjsonip.com"}
+0
+

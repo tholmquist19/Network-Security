@@ -1,0 +1,1 @@
+This program is designed to search for injected packets from shooters.  In order to run this code you must run the command "sudo ./lab7.py <pcap fileName>".  Once the program has ran it will output the packet number of the injected packet and the information about that packet.
